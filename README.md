@@ -46,9 +46,7 @@
 </div>
 
 ---
-## Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saltywan&show_icons=true&theme=tokyonight)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saltywan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="urmom" /></p>
+<a href="https://saltywan.com" target="_blank"><img align="center" src="speed.gif" alt="urmom" /></a>
 <!---
 Saltywan/Saltywan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
